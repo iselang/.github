@@ -17,7 +17,7 @@ ISE (/e/si/) is a cutting-edge programming language designed to simplify softwar
 </p>
 
 ## What is ISE
-ISE is an open-source programming language crafted for developers who value simplicity, speed, and flexibility. With ISE, you can quickly create responsive applications for Android and Linux, with upcoming support for Windows and Apple platforms. It’s not a framework—just a powerful, lightweight tool for building the future of software.
+ISE is an open-source programming language hosted on Our own Version Control ["Mint"](https://ise.web.app), This is crafted for developers who value simplicity, speed, and flexibility. With ISE, you can quickly create responsive applications for Android and Linux, with upcoming support for Windows and Apple platforms. It’s not a framework—just a powerful, lightweight tool for building the future of software.
 
 ## What ISE isn’t
 ISE is not a framework  
