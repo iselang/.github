@@ -5,7 +5,7 @@
 
 # ISE (Interface Style Enliner)
 
-ISE (/e/si/) is a cutting-edge programming language designed to simplify software development, providing faster, more intuitive ways to build modern applications. Unlike traditional frameworks, ISE isn't a framework—it's a self-contained language built to be flexible, fast, and easy to integrate.
+ISE (/e/si/) is a cutting-edge redo type programming language designed to simplify software development, providing faster, more better ways to build modern web or native applications. Unlike traditional frameworks, ISE isn't a framework, it's a self-contained language built to be flexible, fast, and easy to integrate.
 
 <p align="left">
   
@@ -66,8 +66,10 @@ ISE gives you the best of native development, providing direct access to hardwar
 ## Background Languages
 ISE is built using the following background languages  
 - C Language For core functionality, system-level performance, and low-level optimization  
-- JavaScript For app logic, structure, styling, and HTML rendering  
-JavaScript is responsible for handling all aspects of the app including logic, structure, styling, and rendering HTML and CSS, making it the main language for controlling app behavior and appearance.
+- JavaScript For app logic, structure, styling, and HTML rendering
+- Assembly For Native & Binary + Memory control making it performant and optimized.
+
+These re-done is responsible for handling all aspects of the app including logic, caching, fetching, setting up, structure, styling, and rendering, making it the main language for controlling app behavior and appearance.
 
 ## Who Made It
 ISE was developed by the ISE team under InShareByte Corp, a brand agency based in the Philippines. We are committed to advancing technology, systems, and brand development, with a strong focus on artificial intelligence as well.
