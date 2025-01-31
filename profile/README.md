@@ -1,6 +1,17 @@
+<a href="https://ise.web.app" target="_blank" rel="noreferrer"> <img src="https://ise.web.app/icon/1.png" alt="ise" width="40" height="40"/> </a>
+
 # ISE (Interface Style Enliner)
 
 ISE is a cutting-edge programming language designed to simplify software development, providing faster, more intuitive ways to build modern applications. Unlike traditional frameworks, ISE isn't a framework—it's a self-contained language built to be flexible, fast, and easy to integrate.
+
+<p align="left">
+  
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+
+<a href="https://www.ibm.com/docs/en/aix/7.3?topic=aix-assembler-language-reference" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-assembly-icon-256x256-b4mbs5dp.png" alt="assembly" width="40" height="40"/> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYRKINm5PSTurKl9UP1j8if4D1daZsFNGmFcd57CP4A&s" alt="js" width="40" height="40"/> </a>
+</p>
 
 ## What is ISE
 ISE is an open-source programming language crafted for developers who value simplicity, speed, and flexibility. With ISE, you can quickly create responsive applications for Android and Linux, with upcoming support for Windows and Apple platforms. It’s not a framework—just a powerful, lightweight tool for building the future of software.
