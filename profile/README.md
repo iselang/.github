@@ -70,16 +70,16 @@ ISE is built using the following background languages
 JavaScript is responsible for handling all aspects of the app including logic, structure, styling, and rendering HTML and CSS, making it the main language for controlling app behavior and appearance.
 
 ## Who Made It
-ISE was developed by the ISE team under Team Sharebyte Corporation, a brand agency based in the Philippines. We are committed to advancing technology, systems, and brand development, with a strong focus on artificial intelligence as well.
+ISE was developed by the ISE team under InShareByte Corp, a brand agency based in the Philippines. We are committed to advancing technology, systems, and brand development, with a strong focus on artificial intelligence as well.
 
 ## Android Support
-ISE Android support is powered by **Median.co**, ensuring smooth and optimized performance for Android devices.
+ISE Android support is powered by [**Median.co**](https://median.co), ensuring smooth and optimized performance for Android devices.
 
 ---
 
 ## Tested by Google
 
-ISE has been tested using Google's tools like
+ISE has been tested using [Google's](https://google.com) tools like
 
 - **Lang Test**
 - **LightHouse**
