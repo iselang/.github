@@ -72,7 +72,7 @@ ISE is built using the following background languages
 These re-done is responsible for handling all aspects of the app including logic, caching, fetching, setting up, structure, styling, and rendering, making it the main language for controlling app behavior and appearance.
 
 ## Who Made It
-ISE was developed by the ISE team under InShareByte Corp, a brand agency based in the Philippines. We are committed to advancing technology, systems, and brand development, with a strong focus on artificial intelligence as well.
+ISE was developed by the ISE team under [InShareByte Corp](https://insb.web.app), a brand agency based in the Philippines. We are committed to advancing technology, systems, and brand development, with a strong focus on artificial intelligence as well.
 
 ## Android Support
 ISE Android support is powered by [**Median.co**](https://median.co), ensuring smooth and optimized performance for Android devices.
