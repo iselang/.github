@@ -1,6 +1,6 @@
 <i>-> ise programming language</i>
 
-
+[Blog](blogs.md)
 <a href="https://ise.web.app" target="_blank" rel="noreferrer"> <img src="https://ise.web.app/icon/1.png" alt="ise" width="40" height="40"/> </a>
 
 # ISE (Interface Style Enliner)
