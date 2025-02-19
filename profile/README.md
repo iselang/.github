@@ -32,8 +32,8 @@ Prefer the simplicity of native language features
 Focus on building clean, high-performance applications that work across multiple platforms  
 Need to deal with app structure, UI, database management, routing, and hardware support in a single, unified language  
 
-## Current Version 1.8  
-ISE 1.8 introduces a slew of powerful new features  
+## Current Version 1.9 
+ISE 1.9 introduces a slew of powerful new features  
 - SenUI A modern UI framework for responsive and dynamic applications  
 - AutoUI Automatically optimizes UI for better performance  
 - MyaDB Lightweight, offline-first database integration  
@@ -42,6 +42,7 @@ ISE 1.8 introduces a slew of powerful new features
 - Auto Accessibility & Auto SEO Makes your app more inclusive and discoverable by default  
 - Native Hardware Support Direct APIs for accessing device sensors, cameras, and more  
 - Increased support for better hardware integration and real-time syncing  
+- Improvements on Speed.
 
 ## How to Start
 1. Clone the repository or include the ISE CDN in your project  
