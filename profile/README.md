@@ -1,14 +1,12 @@
-<i>-> ise programming language</i>
+ise machine rules
 
-[Blog](blogs.md)
 <a href="https://ise.web.app" target="_blank" rel="noreferrer"> <img src="https://ise.web.app/icon/1.png" alt="ise" width="40" height="40"/> </a>
 
 # ISE (Interface Style Enliner)
 
-ISE (/e/si/) is a cutting-edge Combination of JS, C, Assembly & WebAssembly. A redo type programming language designed to simplify software development, providing faster, more better ways to build modern web or native applications. Unlike traditional frameworks, ISE isn't a framework, it's a self-contained language built to be flexible, fast, and easy to integrate.
+ISE/Easy (/e/si/) is a cutting-edge Combination of JS, C, Assembly & WebAssembly. A redo type programming language designed to simplify software development, providing faster, more better ways to build modern web or native applications. Unlike traditional frameworks, ISE isn't a framework, it's a self-contained language built to be flexible, fast, and easy to integrate, Hosted on Our own Version Control ["Mint"](https://ise.web.app), This is crafted for developers who value simplicity, speed, and flexibility. With ISE, you can quickly create responsive applications for Android and Linux, with upcoming support for Windows and Apple platforms. It’s not a framework—just a powerful, lightweight tool for building the future of software.
 
-
-<p align="left">
+<p align="left" style="display:flex; flex-direction:row;">
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
@@ -17,8 +15,7 @@ ISE (/e/si/) is a cutting-edge Combination of JS, C, Assembly & WebAssembly. A r
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYRKINm5PSTurKl9UP1j8if4D1daZsFNGmFcd57CP4A&s" alt="js" width="40" height="40"/> </a>
 </p>
 
-## What is ISE
-ISE is an open-source programming language hosted on Our own Version Control ["Mint"](https://ise.web.app), This is crafted for developers who value simplicity, speed, and flexibility. With ISE, you can quickly create responsive applications for Android and Linux, with upcoming support for Windows and Apple platforms. It’s not a framework—just a powerful, lightweight tool for building the future of software.
+[Blogs](blogs.md)
 
 ## What ISE isn’t
 ISE is not a framework  
