@@ -5,7 +5,8 @@
 
 # ISE (Interface Style Enliner)
 
-ISE (/e/si/) is a cutting-edge redo type programming language designed to simplify software development, providing faster, more better ways to build modern web or native applications. Unlike traditional frameworks, ISE isn't a framework, it's a self-contained language built to be flexible, fast, and easy to integrate.
+ISE (/e/si/) is a cutting-edge Combination of JS, C, Assembly & WebAssembly. A redo type programming language designed to simplify software development, providing faster, more better ways to build modern web or native applications. Unlike traditional frameworks, ISE isn't a framework, it's a self-contained language built to be flexible, fast, and easy to integrate.
+
 
 <p align="left">
   
@@ -31,6 +32,9 @@ Want to build apps quickly with minimal setup
 Prefer the simplicity of native language features  
 Focus on building clean, high-performance applications that work across multiple platforms  
 Need to deal with app structure, UI, database management, routing, and hardware support in a single, unified language  
+
+## What ISE Can Control
+Camera, Microphone, Display, Sensors, Audio Processing, Network & Connectivity (Coming Soon) Battery & Power Management (Coming Soon)
 
 ## Current Version 1.9 
 ISE 1.9 introduces a slew of powerful new features  
@@ -73,7 +77,7 @@ ISE is built using the following background languages
 These re-done is responsible for handling all aspects of the app including logic, caching, fetching, setting up, structure, styling, and rendering, making it the main language for controlling app behavior and appearance.
 
 ## Who Made It
-ISE was developed by the ISE team under [InShareByte Corp](https://insb.web.app), a brand agency based in the Philippines. We are committed to advancing technology, systems, and brand development, with a strong focus on artificial intelligence as well.
+ISE was developed by the Nai under [InShareByte Corp](https://insb.web.app), a brand agency based in the Philippines. We are committed to advancing technology, systems, and brand development, with a strong focus on artificial intelligence as well.
 
 ## Android Support
 ISE Android support is powered by [**Median.co**](https://median.co), ensuring smooth and optimized performance for Android devices.
@@ -90,6 +94,23 @@ ISE has been tested using [Google's](https://google.com) tools like
 
 Results:
 
+### Native + Web
+
+**Performance** 
+100% in a 12GB RAM test with only 100KB–20MB usage.
+
+**Execution Speed** 
+0.007s compile & interpret time.
+
+**Load Speed** 
+0.7s–12s across different setups.
+
+**Optimization Score**
+ 11/11, 7/7, 3/3 across Google’s testing tools.
+
+**UI and I.S** 
+12points | 3 User Experience Range which is highest than other.
+
 - **90-100%** in those tests.
 
 ![image](https://github.com/user-attachments/assets/d4b5f546-450e-4ea2-9909-2c8aaf63b3f3)
@@ -101,7 +122,6 @@ Results:
 - **12-0.7ms** speed compilation and performance rate.
 ![image](https://github.com/user-attachments/assets/950bbda3-3656-48b6-86ad-a4f7f2380d29)
 ![image](https://github.com/user-attachments/assets/e24f0035-6aea-4517-8e45-d2597ef3ef5e)
-
 
 https://github.com/user-attachments/assets/c9d31bac-ed5d-4773-83bb-7aabb2fc576d
 
