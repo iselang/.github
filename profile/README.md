@@ -35,13 +35,13 @@ Camera, Microphone, Display, Sensors, Audio Processing, Network & Connectivity (
 
 ## Current Version 1.9 
 ISE 1.9 introduces a slew of powerful new features  
-- SenUI A modern UI framework for responsive and dynamic applications  
-- AutoUI Automatically optimizes UI for better performance  
-- MyaDB Lightweight, offline-first database integration  
+- **SenUI** A modern UI framework for responsive and dynamic applications  
+- **AutoUI** Automatically optimizes UI for better performance  
+- **MyaDB** Lightweight, offline-first database integration  
 - Direct Compilation Run apps seamlessly across supported platforms (Linux & Android)  
-- Preloading Improves page load times and reduces layout shifts  
-- Auto Accessibility & Auto SEO Makes your app more inclusive and discoverable by default  
-- Native Hardware Support Direct APIs for accessing device sensors, cameras, and more  
+- **Preloading + Precaching** Improves page load times and reduces layout shifts  
+- **Auto Accessibility & Auto SEO** Makes your app more inclusive and discoverable by default  
+- **Native Hardware Support Direct APIs** for accessing device sensors, cameras, and more  
 - Increased support for better hardware integration and real-time syncing  
 - Improvements on Speed.
 
