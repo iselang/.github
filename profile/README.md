@@ -35,8 +35,12 @@ Camera, Microphone, Display, Sensors, Audio Processing, Network & Connectivity (
 
 ## Current Version 1.9 
 ISE 1.9 introduces a slew of powerful new features  
-- **SenUI** A modern UI framework for responsive and dynamic applications  
-- **AutoUI** Automatically optimizes UI for better performance  
+- **SenUI**
+A modern UI framework for responsive and dynamic applications, 
+Just-In-Time (JIT) Compilation of your css without needing terminal just ISE and done.
+- **AutoUI** 
+Automatically optimizes UI for better performance,
+In-Time-Fixing (ITF) optimization that help you be fast and efficient without debug.
 - **MyaDB** Lightweight, offline-first database integration  
 - Direct Compilation Run apps seamlessly across supported platforms (Linux & Android)  
 - **Preloading + Precaching** Improves page load times and reduces layout shifts  
