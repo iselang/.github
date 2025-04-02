@@ -1,6 +1,6 @@
 # For future.
 
-# [Num](github.com/iselang/num/)
+# [Num](https://github.com/iselang/num/)
 
 
 ---
